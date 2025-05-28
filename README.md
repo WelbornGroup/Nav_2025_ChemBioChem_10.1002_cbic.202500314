@@ -14,4 +14,4 @@ The trajectories used in our paper are available for download on zenodo, the doi
 10.5281/zenodo.15477118
 10.5281/zenodo.15490901
 
-For the deposits of CHARMM simulations with GROMACS, the topology and force field parameters for each simulation are included in ```toppar``` folder, the initial structure for the simulation is ```step5_input.pdb```. ```step6.0*``` to ```step7*``` are the simulation setup for minimization, equilibration and production. 
+For the deposits of CHARMM simulations with GROMACS, the topology and force field parameters for each simulation are included in ```toppar``` folder, the initial structure for the simulation is ```step5_input.pdb```. ```step6.0*``` to ```step7*``` are the simulation setup for minimization, equilibration and production. The trajectories for minimization, NVT equilibration, NPT equilibration, and production are ```em.trr```, ```nvt*.trr```, ```npt*.trr```, and ```md1.trr```, respectively. The energy files and log files for each have the same file name with file extenion of ```.edr``` and ```.log```, respectively.
